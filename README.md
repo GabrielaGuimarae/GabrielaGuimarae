@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GabrielaGuimarae
 - 👀 I’m interessada em oportunidades onde eu possa desenvolver meus conhecimentos.
-- 🌱 I’m currently learning JavaScript,  praticando Python, HTML, CSS 
+- 🌱 I’m currently learning JavaScript,  praticando Python, HTML, CSS, C, Java e PHP
 - 💞️ I’m looking to collaborate em desenvolvedor de web, front-end
 - 📫 How to reach me  via email :  gabiiguima3@gmail.com
+- 😁 visit my replit: https://replit.com/@GabrielaGuimaraes
 
 <!---
 GabrielaGuimarae/GabrielaGuimarae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
